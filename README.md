@@ -8,13 +8,19 @@
 
 ---
 
-### 👨‍💻 Hakkımda
+## 👨‍💻 Hakkımda
 
-Merhaba! Yazılım geliştirme yolculuğumda **Python** ve **Dart** dillerindeki yetkinliğimi kanıtlayıp eğitimlerimi tamamladım. Şu anda odağımı mobil dünyaya çevirdim ve **Flutter** ile gerçek dünya projeleri geliştiriyorum.
+<h3 align="left">
+  Merhaba! Yazılım geliştirme yolculuğumda <b>Python</b> ve <b>Dart</b> dillerindeki yetkinliğimi kanıtlayıp eğitimlerimi tamamladım. Şu anda odağımı mobil dünyaya çevirdim ve <b>Flutter</b> ile gerçek dünya projeleri geliştiriyorum.
+</h3>
 
-* 🔭 Şu an **Flutter ile [Psiko AI]** üzerinde çalışıyorum.
-* 🌱 **Python** ile algoritmik düşünme yapımı güçlendirdim.
-* 🚀 Hedefim: İnsanların hayatını kolaylaştıran modern mobil uygulamalar üretmek.
-* ⚡ **Eğlenceli Gerçek:** Kod yazarken kahve içmezsem bug çıkma olasılığı %50 artıyor! ☕
+<h3 align="left">
+  <ul>
+    <li>🔭 Şu an <b>Flutter ile [Psiko AI]</b> üzerinde çalışıyorum.</li>
+    <li>🌱 <b>Python</b> ile algoritmik düşünme yapımı güçlendirdim.</li>
+    <li>🚀 Hedefim: İnsanların hayatını kolaylaştıran modern mobil uygulamalar üretmek.</li>
+    <li>⚡ <b>Eğlenceli Gerçek:</b> Kod yazarken kahve içmezsem bug çıkma olasılığı %50 artıyor! ☕</li>
+  </ul>
+</h3>
 
 ---
