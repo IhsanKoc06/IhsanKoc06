@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**IhsanKoc06/IhsanKoc06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Merhaba,%20Ben%20Yazılımcı!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Python%20|%20Dart%20|%20Flutter%20Developer&descAlignY=55&descAlign=50)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+ve+Dart+E%C4%9Fitimini+Tamamlad%C4%B1m;%C5%9Eu+an+Flutter+Projesi+Geli%C5%9Ftiriyorum;Mobil+Uygulama+D%C3%BCnyas%C4%B1na+Ad%C4%B1m+Att%C4%B1m;Kodlamay%C4%B1+%C3%87ok+Seviyorum!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👨‍💻 Hakkımda
+
+Merhaba! Yazılım geliştirme yolculuğumda **Python** ve **Dart** dillerindeki yetkinliğimi kanıtlayıp eğitimlerimi tamamladım. Şu anda odağımı mobil dünyaya çevirdim ve **Flutter** ile gerçek dünya projeleri geliştiriyorum.
+
+* 🔭 Şu an **Flutter ile [Psiko AI]** üzerinde çalışıyorum.
+* 🌱 **Python** ile algoritmik düşünme yapımı güçlendirdim.
+* 🚀 Hedefim: İnsanların hayatını kolaylaştıran modern mobil uygulamalar üretmek.
+* ⚡ **Eğlenceli Gerçek:** Kod yazarken kahve içmezsem bug çıkma olasılığı %50 artıyor! ☕
+
+---
