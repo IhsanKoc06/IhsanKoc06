@@ -24,3 +24,49 @@
 </h3>
 
 ---
+---
+
+## 🛠 Yeteneklerim & Araçlarım
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="35" />
+
+  <br /> <br />
+
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="35" />
+
+</div>
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ihsan_Koc06&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan_Koc06&layout=compact&theme=cobalt&hide_border=true" height="160" />
+
+</div>
+
+---
+
+## 📫 İletişim
+
+<h3 align="center">
+  Benimle projeler veya fikir alışverişi için iletişime geçebilirsin!
+</h3>
+
+<div align="center">
+  <a href="mailto:ihsankoc4134@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/ihsan-koç-434160336/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+</div>
