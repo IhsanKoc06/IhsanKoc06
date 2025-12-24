@@ -26,6 +26,18 @@
 ---
 ---
 
+## 🎓 Eğitim ve Sertifikalar
+
+| Sertifika / Eğitim Adı | Kurum | Tarih | Belge |
+| :--- | :--- | :--- | :---: |
+| **Python: Sıfırdan İleri Seviye Programlama** | BTK Akademi | 2025 | [Görüntüle](#) |
+| **Dart & Flutter ile Mobil Uygulama Geliştirme** | Btk Akademi | 2025 | [Görüntüle](#) |
+
+
+
+<br/>
+---
+
 ## 🛠 Yeteneklerim & Araçlarım
 
 <div align="center">
