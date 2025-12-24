@@ -48,12 +48,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ihsan_Koc06&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=IhsanKoc06&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="160" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan_Koc06&layout=compact&theme=cobalt&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhsanKoc06&layout=compact&theme=cobalt&hide_border=true" height="160" />
 
 </div>
-
 ---
 
 ## 📫 İletişim
