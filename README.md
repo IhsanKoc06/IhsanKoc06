@@ -30,7 +30,7 @@
 
 | Sertifika / Eğitim Adı | Kurum | Tarih | Belge |
 | :--- | :--- | :--- | :---: |
-| **Python: Sıfırdan İleri Seviye Programlama** | BTK Akademi | 2025 | [Görüntüle](#) |
+| **Python: Yeni Başlayanlar İçin Pyhton Programlama** | BTK Akademi | 2025 | [Görüntüle](./sertifikalar/Python_Belge.png) |
 | **Dart & Flutter ile Mobil Uygulama Geliştirme** | Btk Akademi | 2025 | [Görüntüle](#) |
 
 
